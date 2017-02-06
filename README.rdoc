@@ -1,3 +1,7 @@
-== README
+# Ruby on Rails based Blog websit
 
-This is the repository for the first Ruby on Rails made by me :)
+Udemy Practice Project
+
+Description:
+* Building web blog (databases, controllers, models) from scratch.
+* Using Boostrap framework for UI views.
