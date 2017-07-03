@@ -1,4 +1,4 @@
-# Ruby on Rails based Blog websit
+# Ruby on Rails based Blog website
 
 Udemy Practice Project
 
